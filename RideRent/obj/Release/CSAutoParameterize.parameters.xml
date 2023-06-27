@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RUR-Web.config Connection String" description="RUR Connection String used in web.config by the application to access the database." defaultValue="Data Source = lab000000\\SQLEXPRESS; Initial Catalog = ST10091187_Therideyourentdatabse; Integrated Security = True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\lab_services_student\\source\\repos\\RideRent\\RideRent\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RUR']/@connectionString" />
+  </parameter>
+</parameters>

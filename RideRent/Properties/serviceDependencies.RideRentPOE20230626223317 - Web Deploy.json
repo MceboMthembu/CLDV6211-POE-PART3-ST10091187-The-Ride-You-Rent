@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/mcebostorage/databases/ST10091187_Therideyourentdatabse",
+      "type": "mssql.azure",
+      "connectionId": "ST10091187RIDEYOURENT"
+    }
+  }
+}
